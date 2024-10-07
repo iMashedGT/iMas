@@ -1,4 +1,4 @@
-<a href="https://github.com/iMashedGT"><img src="https://raw.githubusercontent.com/iMashedGT/iMas/images/imas.png" width="100%" height="auto"/></a>
+<a href="https://github.com/iMashedGT"><img src="https://raw.githubusercontent.com/iMashedGT/iMas/main/images/imas.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://discord.com/users/209222461357686795" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
