@@ -26,7 +26,7 @@
   
 ## 🔥 Discord Stats
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/iMashedGT/iMas/images/land.png"/>
+<img align="right" width="38%" src="https://raw.githubusercontent.com/iMashedGT/iMas/main/images/land.png"/>
 
   <a href="https://discord.com/users/209222461357686795"><img width="50%" src="https://lanyard-profile-readme.vercel.app/api/209222461357686795?theme=dark&bg=FF3068&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Doing%20Maou-sama%20things...&hideBadges=true"></a>
 
