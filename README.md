@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>Hi 👋, I am **Imas**, an enthusiastic and ambitious **Community Manager** in various places on Discord, specializing in **Design, Video Editing, and UI/UX**. I thrive on creativity, problem-solving, and making impactful user experiences. I love networking, joining new communities, and contributing value ✨.
+<p>Hi 👋, I am **Imas** , an enthusiastic and ambitious **Community Manager** in various places on Discord, specializing in **Design, Video Editing, and UI/UX**. I thrive on creativity, problem-solving, and making impactful user experiences. I love networking, joining new communities, and contributing value ✨.
 <div>
 <details>
   <summary>🧑 More about me</summary>
