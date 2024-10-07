@@ -6,10 +6,7 @@
 
 <br/>
 
-<p>
-
-    Hi 👋, I am **Imas**, an enthusiastic and ambitious **Community Manager** in various places on Discord, specializing in **Design, Video Editing, and UI/UX**. I thrive on creativity, problem-solving, and making impactful user experiences. I love networking, joining new communities, and contributing value ✨.
-
+<p>Hi 👋, I am **Imas**, an enthusiastic and ambitious **Community Manager** in various places on Discord, specializing in **Design, Video Editing, and UI/UX**. I thrive on creativity, problem-solving, and making impactful user experiences. I love networking, joining new communities, and contributing value ✨.
 <div>
 <details>
   <summary>🧑 More about me</summary>
@@ -24,15 +21,13 @@
   
 </p>
   
-## 🔥 Discord Stats
+## 📊 Discord Stats
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/iMashedGT/iMas/main/images/land.png"/>
 
   <a href="https://discord.com/users/209222461357686795"><img width="50%" src="https://lanyard-profile-readme.vercel.app/api/209222461357686795?theme=dark&bg=FF3068&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Doing%20Maou-sama%20things...&hideBadges=true"></a>
 
-## 📘 My top open source projects
+## 🎮 Steam Game Journey
 
 <p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
+    <a href="https://steamcommunity.com/id/dunndundun/"><img width="50%" src="https://steam-stat.vercel.app/api?profileName=dunndundun" alt="readme-typing-svg"></a></p>
